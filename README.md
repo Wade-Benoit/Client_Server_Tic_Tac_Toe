@@ -22,5 +22,5 @@ status of the game, displaying the server’s “move”, displaying error messa
 
 
 Shared code:
-A C++-module that contains the common subroutines that are used by both the client and server.
+A C-module that contains the common subroutines that are used by both the client and server.
 
